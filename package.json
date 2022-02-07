@@ -1,8 +1,8 @@
 {
 	"name": "edu_db_labs",
-	"version": "2.1.0",
+	"version": "1.0.0",
 	"main": "index.js",
-	"description": "Databases labs template",
+	"description": "Databases labs",
 	"repository": "https://github.com/s3rbug/open_data",
 	"author": "Buhaichuk Sergiy <bugaychuk.sergiy@gmail.com>",
 	"license": "ECL 2.0",
